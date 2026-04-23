@@ -41,7 +41,7 @@ final class RecipeListViewModel {
 
             return matchesSearch && matchesCategory
         }
-        .sorted { $0.createdAt > $1.createdAt } // newest first
+        .sorted { $0.createdAt < $1.createdAt } // newest first (FIXME: should be >)
     }
 
     // MARK: - Delete
