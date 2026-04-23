@@ -1,3 +1,98 @@
+# 🥘 Pantry AI
+### Smart Recipe Management & AI Extraction
+
+A modern iOS application built with **SwiftUI**, **SwiftData**, and **Gemini Pro**. Pantry transforms messy cooking notes into structured, beautiful recipe cards using AI.
+
+---
+
+## 📱 App Interface
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <img src="screenshots/view1.png" width="100%" alt="Recipe List"/><br/>
+      <sub><b>Recipe Feed</b></sub>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="screenshots/view2.png" width="100%" alt="AI Editor"/><br/>
+      <sub><b>Smart Editor</b></sub>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="screenshots/view3.png" width="100%" alt="Ingredients"/><br/>
+      <sub><b>Ingredient View</b></sub>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="screenshots/view4.png" width="100%" alt="Cooking Mode"/><br/>
+      <sub><b>Cooking Mode</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="screenshots/horizontal_banner.png" width="100%" alt="Main App Banner" />
+  <br/>
+  <i>Pantry Workflow: From Raw Text to Digital Masterpiece</i>
+</p>
+
+---
+
+## 🧪 Sample Testing Data
+This data is used to verify layout responsiveness and category filtering within the app.
+
+| Recipe Name | Category | Cook Time | Key Ingredient | Emoji |
+| :--- | :--- | :--- | :--- | :---: |
+| **Spaghetti Carbonara** | Dinner | 25 mins | Pancetta | 🍝 |
+| **Avocado Toast** | Breakfast | 10 mins | Avocado | 🥑 |
+| **Chocolate Lava Cake** | Dessert | 15 mins | Dark Chocolate | 🍫 |
+
+---
+
+## 📝 Recipe Details (Plain English)
+
+### 1. Spaghetti Carbonara
+**Summary:** Creamy Roman pasta with egg and pancetta.
+* **Ingredients:** 200g spaghetti, 100g pancetta, 2 large eggs, 50g Pecorino Romano, Black pepper.
+* **Steps:** 1. Boil pasta in salted water until al dente.
+  2. Fry pancetta until crisp.
+  3. Whisk eggs with grated cheese.
+  4. Drain pasta, reserving 1 cup water.
+  5. Combine off-heat with egg mixture.
+  6. Add pasta water to loosen.
+  7. Top with pancetta and black pepper.
+
+### 2. Avocado Toast
+**Summary:** Simple and nutritious breakfast classic.
+* **Ingredients:** 2 slices sourdough, 1 ripe avocado, Lemon juice, Salt and chili flakes.
+* **Steps:** 1. Toast the bread until golden.
+  2. Mash avocado with lemon juice and salt.
+  3. Spread onto toast.
+  4. Finish with chili flakes.
+
+### 3. Chocolate Lava Cake
+**Summary:** Warm, gooey chocolate dessert in 15 minutes.
+* **Ingredients:** 200g dark chocolate, 100g butter, 4 eggs, 100g sugar, 60g flour.
+* **Steps:** 1. Preheat oven to 200°C.
+  2. Melt chocolate and butter together.
+  3. Whisk eggs and sugar until pale.
+  4. Fold in chocolate mixture then flour.
+  5. Pour into greased ramekins.
+  6. Bake 12 minutes — centre should be liquid.
+
+---
+
+## 🛠 Features
+- **Auto-Sizing Text Editor:** Custom multi-line input that expands as you type.
+- **AI Formatting:** Gemini integration to clean up raw text into structured recipes.
+- **SwiftData Storage:** High-performance local persistence for iOS.
+
+---
+
+<p align="center">
+  Developed by <b>Harjit Singh</b> 🇮🇳
+</p>
+
 # Pantry 🍳
 
 A personal recipe book iOS app built with Swift, SwiftUI, and SwiftData.
