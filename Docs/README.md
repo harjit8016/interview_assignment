@@ -10,7 +10,7 @@ A modern iOS application built with **SwiftUI**, **SwiftData**, and **Gemini Pro
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="screenshots/view1.png" width="100%" alt="Recipe List"/><br/>
+      <img src="AppImages/AddRecipeForm.png" width="100%" alt="Recipe List"/><br/>
       <sub><b>Recipe Feed</b></sub>
     </td>
     <td align="center" style="border: none;">
