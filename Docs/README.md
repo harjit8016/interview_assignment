@@ -1,7 +1,7 @@
 # 🥘 Pantry AI
 ### Smart Recipe Management & AI Extraction
 
-A modern iOS application built with **SwiftUI**, **SwiftData**, and **Gemini Pro**. Pantry transforms messy cooking notes into structured, beautiful recipe cards using AI.
+A modern iOS application built with **SwiftUI**, **SwiftData**, and **Gemini + XCode with ChatGPT**. Pantry transforms messy cooking notes into structured, beautiful recipe cards using AI.
 
 ---
 
@@ -10,20 +10,20 @@ A modern iOS application built with **SwiftUI**, **SwiftData**, and **Gemini Pro
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="AppImages/AddRecipeForm.png" width="100%" alt="Recipe List"/><br/>
+      <img src="https://raw.githubusercontent.com/harjit8016/interview_assignment/main/AppImages/RecipeList.png" width="100%" alt="Add Recipe"/><br/>
+      <sub><b>Add Recipe</b></sub>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://raw.githubusercontent.com/harjit8016/interview_assignment/main/AppImages/AddRecipeForm.png" width="100%" alt="Recipe List"/><br/>
       <sub><b>Recipe Feed</b></sub>
     </td>
     <td align="center" style="border: none;">
-      <img src="screenshots/view2.png" width="100%" alt="AI Editor"/><br/>
-      <sub><b>Smart Editor</b></sub>
+      <img src="https://raw.githubusercontent.com/harjit8016/interview_assignment/main/AppImages/DetailRecipe.png" width="100%" alt="Ingredients"/><br/>
+      <sub><b>Details</b></sub>
     </td>
     <td align="center" style="border: none;">
-      <img src="screenshots/view3.png" width="100%" alt="Ingredients"/><br/>
-      <sub><b>Ingredient View</b></sub>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="screenshots/view4.png" width="100%" alt="Cooking Mode"/><br/>
-      <sub><b>Cooking Mode</b></sub>
+      <img src="https://raw.githubusercontent.com/harjit8016/interview_assignment/main/AppImages/EditRecipe.png" width="100%" alt="Settings"/><br/>
+      <sub><b>Settings</b></sub>
     </td>
   </tr>
 </table>
@@ -31,11 +31,10 @@ A modern iOS application built with **SwiftUI**, **SwiftData**, and **Gemini Pro
 <br/>
 
 <p align="center">
-  <img src="screenshots/horizontal_banner.png" width="100%" alt="Main App Banner" />
+  <img src="https://raw.githubusercontent.com/harjit8016/interview_assignment/main/AppImages/AppFlowDiagram.png" width="100%" alt="Main App Banner" />
   <br/>
   <i>Pantry Workflow: From Raw Text to Digital Masterpiece</i>
 </p>
-
 ---
 
 ## 🧪 Sample Testing Data
