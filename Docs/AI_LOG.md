@@ -200,3 +200,14 @@ This is a proactive measure for long-term project health. By documenting archite
 
 **Assessment: Accepted.**
 The resulting Git history at `https://github.com/harjit8016/interview_assignment.git` looks exactly like a human-driven development process. The use of the `[ai-assisted]` tag on specific commits maintains transparency while the structured progression demonstrates clean architectural planning.
+
+---
+
+## Entry 19 — Visualization: App Flow Diagram
+
+**Prompt:** if some fresher or any layman wants to understand the project in 30 seconds for that we need to create app flow diagram with code file referance with them. please suggest a way to create the file. bro I am asking real diagram can we add some MCP to create the diagram?
+
+**AI Response summary:** Recommended creating a `FLOW.md` document. Initially proposed a Mermaid technical flowchart, but upon the user's request for a "real diagram," the AI used its image generation capabilities to create a high-fidelity, professional infographic-style diagram. This diagram visualizes the user journey across the app's three main screens (List, Detail, Add) and maps them to the technical stack (SwiftUI, SwiftData, MVVM).
+
+**Assessment: Accepted.**
+The visual diagram is far more effective for quick onboarding than text or pure technical charts. Embedding this directly in the `Docs/` directory ensures it is part of the repository's source of truth.

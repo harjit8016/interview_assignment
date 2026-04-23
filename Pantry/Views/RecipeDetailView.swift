@@ -43,7 +43,7 @@ struct RecipeDetailView: View {
             .padding()
         }
         .navigationTitle(viewModel.isEditing ? "Editing" : recipe.title)
-        .navigationBarTitleDisplayMode(.large)
+        .navigationBarTitleDisplayMode(.inline)
         .toolbar { toolbarContent }
         // Ensure toolbar updates when edit state changes
         .animation(.easeInOut(duration: 0.2), value: viewModel.isEditing)
