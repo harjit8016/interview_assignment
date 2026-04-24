@@ -11,11 +11,11 @@ A modern iOS application built with **SwiftUI**, **SwiftData**, and **Gemini + X
   <tr>
     <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/harjit8016/interview_assignment/main/AppImages/RecipeList.png" width="100%" alt="Add Recipe"/><br/>
-      <sub><b>Add Recipe</b></sub>
+      <sub><b>Recipe Feed</b></sub>
     </td>
     <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/harjit8016/interview_assignment/main/AppImages/AddRecipeForm.png" width="100%" alt="Recipe List"/><br/>
-      <sub><b>Recipe Feed</b></sub>
+      <sub><b>Add New Recipe</b></sub>
     </td>
     <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/harjit8016/interview_assignment/main/AppImages/DetailRecipe.png" width="100%" alt="Ingredients"/><br/>
@@ -23,7 +23,7 @@ A modern iOS application built with **SwiftUI**, **SwiftData**, and **Gemini + X
     </td>
     <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/harjit8016/interview_assignment/main/AppImages/EditRecipe.png" width="100%" alt="Settings"/><br/>
-      <sub><b>Settings</b></sub>
+      <sub><b>Edit Recipe</b></sub>
     </td>
   </tr>
 </table>
